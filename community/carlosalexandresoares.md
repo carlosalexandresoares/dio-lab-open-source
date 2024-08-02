@@ -25,11 +25,11 @@ Busco uma oportunidade de estágio na área de programação para aplicar meus c
 
 ### 📈 Estatísticas no GitHub
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=carlosalexandresoares&show_icons=true&theme=dracula)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=carlosalexandresoares&theme=transparent&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)
 
 ### 🚀 Linguagens Mais Usadas
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=carlosalexandresoares&layout=compact)
+![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=carlosalexandresoares&layout=compact&bg_color=000&border_color=30A3DC&title_color=E94D5F&text_color=FFF)
 
 ## Conecte-se comigo
  <a href="www.linkedin.com/in/carlos-alexandre-soares-393987253" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
